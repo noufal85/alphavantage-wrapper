@@ -47,21 +47,21 @@ If wrapping an existing package, ensure you:
 ## Development Stages
 
 ### Stage 1: Project Setup and Core Functionality
-- ✓ Set up project structure with proper packaging
-- ✓ Implement API key management and configuration
-- ✓ Create base client class with request handling
+- [ ] Set up project structure with proper packaging
+- [ ] Implement API key management and configuration
+- [ ] Create base client class with request handling
 - [ ] Implement rate limiting and quota management
 - [ ] Add comprehensive error handling
-- ✓ Create basic documentation structure
+- [ ] Create basic documentation structure
 
 ### Stage 2: Stock Time Series API Implementation
-- ✓ Implement Intraday Time Series
-- ✓ Implement Daily Time Series
-- ✓ Implement Weekly Time Series
-- ✓ Implement Monthly Time Series
-- 🔄 Add adjusted vs. unadjusted options
+- [ ] Implement Intraday Time Series
+- [ ] Implement Daily Time Series
+- [ ] Implement Weekly Time Series
+- [ ] Implement Monthly Time Series
+- [ ] Add adjusted vs. unadjusted options
 - [ ] Implement Global Quote endpoint
-- ❌ Add search functionality
+- [ ] Add search functionality
 - [ ] Create comprehensive tests for this module
 
 ### Stage 3: Fundamental Data API Implementation
@@ -75,9 +75,9 @@ If wrapping an existing package, ensure you:
 - [ ] Create comprehensive tests for this module
 
 ### Stage 4: Technical Indicators Implementation
-- ✓ Implement Simple Moving Average (SMA)
-- ✓ Implement Exponential Moving Average (EMA)
-- ✓ Implement Weighted Moving Average (WMA)
+- [ ] Implement Simple Moving Average (SMA)
+- [ ] Implement Exponential Moving Average (EMA)
+- [ ] Implement Weighted Moving Average (WMA)
 - [ ] Implement Moving Average Convergence/Divergence (MACD)
 - [ ] Implement Relative Strength Index (RSI)
 - [ ] Implement Bollinger Bands
@@ -141,8 +141,8 @@ If wrapping an existing package, ensure you:
 ## API Endpoints Checklist
 
 ### Stock Time Series
-- ✓ TIME_SERIES_INTRADAY
-- ✓ TIME_SERIES_DAILY
+- [ ] TIME_SERIES_INTRADAY
+- [ ] TIME_SERIES_DAILY
 - [ ] TIME_SERIES_DAILY_ADJUSTED
 - [ ] TIME_SERIES_WEEKLY
 - [ ] TIME_SERIES_WEEKLY_ADJUSTED
@@ -162,9 +162,9 @@ If wrapping an existing package, ensure you:
 - [ ] LISTING_STATUS
 
 ### Technical Indicators
-- ✓ SMA (Simple Moving Average)
-- ✓ EMA (Exponential Moving Average)
-- ✓ WMA (Weighted Moving Average)
+- [ ] SMA (Simple Moving Average)
+- [ ] EMA (Exponential Moving Average)
+- [ ] WMA (Weighted Moving Average)
 - [ ] DEMA (Double Exponential Moving Average)
 - [ ] TEMA (Triple Exponential Moving Average)
 - [ ] TRIMA (Triangular Moving Average)
